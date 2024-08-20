@@ -1,5 +1,5 @@
 set.seed(777)
-n = 100000
+n = 1000000
 
 # Initialize the matrix to store states
 matx <- matrix(NA, nrow = n+1, ncol = 1)
